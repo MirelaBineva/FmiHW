@@ -1,0 +1,2 @@
+# FmiHW
+First homework
