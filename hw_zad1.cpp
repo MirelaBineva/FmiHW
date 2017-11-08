@@ -18,7 +18,7 @@ int main()
             cin >> userNumber;
         }while (userNumber < 10 || userNumber > 5555);
 
-        sum +=userName;
+        sum +=userNumber;
         cout << "Current sum : " << sum << endl;
 
     }
